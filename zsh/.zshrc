@@ -6,6 +6,7 @@ alias ll='lsd -a'
 alias la='lsd -la'
 alias lt='lsd --tree'
 alias cl='clear'
+alias gs='git status'
 alias ....='cd ../../../' # Go back 3 directory levels
 alias ...='cd ../../' # Go back 2 directory levels
 alias ..='cd ../' # Go back 1 directory level

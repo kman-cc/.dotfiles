@@ -7,6 +7,7 @@ alias la='lsd -la'
 alias lt='lsd --tree'
 alias gs='git status'
 alias gl='git log --oneline'
+alias gc='git clone'
 alias ....='cd ../../../' # Go back 3 directory levels
 alias ...='cd ../../' # Go back 2 directory levels
 alias ..='cd ../' # Go back 1 directory level
